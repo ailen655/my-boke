@@ -6,8 +6,7 @@ comments: true
 ## 本站信息
 - 站名： Ailen655
 - 站长： fighting spirit
-- 地址： https://d-sketon.top/
-- 备用地址：https://d-sketon.github.io/
+- 地址： https://zhanyiruchao.netlify.app
 
 # 申请方法
 - 添加本站后，在本页留言，格式如下
@@ -22,3 +21,4 @@ comments: true
 ~~~
 
 # 小伙伴们
+有意联系
