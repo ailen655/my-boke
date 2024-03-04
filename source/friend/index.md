@@ -21,4 +21,4 @@ comments: true
 ~~~
 
 # 小伙伴们
-有意联系
+{% friendsLink friend/friend.yml %}
