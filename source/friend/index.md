@@ -4,8 +4,8 @@ comments: true
 ---
 
 ## 本站信息
-- 站名： 拔剑Sketon
-- 站长： 拔剑Sketon
+- 站名： Ailen655
+- 站长： fighting spirit
 - 地址： https://d-sketon.top/
 - 备用地址：https://d-sketon.github.io/
 
@@ -22,4 +22,3 @@ comments: true
 ~~~
 
 # 小伙伴们
-{% friendsLink friend/_data.yml %}
