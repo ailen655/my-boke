@@ -234,7 +234,7 @@ service_worker:
 
 # Experimental
 live2d:
-  enable: false
+  enable: true
 
 reimu_cursor: true
 
