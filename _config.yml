@@ -102,3 +102,12 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+gitalk:
+  enable: true
+  clientID: '26568dadda88689b1283'
+  clientSecret: ' a22be553226e61a7c0d6443f1222d2ba5bb4c690'
+  repo: 'pinglun'
+  owner: 'ailen655'
+  admin: ['ailen655']
+  distractionFreeMode: true
